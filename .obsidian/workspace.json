@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "d2f4787071b47eac",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0681956c8d3a29c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f64ff99110423ea",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1ca8ee385901b3c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa931ec5cca446e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db719802de21c464",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ec2be28ca74a302f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "81e4ad8e0ddb381b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "711d6e76fccfa6a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f60ef8277f40da45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c121324e637d6aa2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "8c6692e94522f2ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "64f0b763852b8119",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b0bd23cbb13519bd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6f64ff99110423ea",
+  "lastOpenFiles": [
+    "Personal/Health/Body Building.md",
+    "Personal/Career Tips/Software Tips.md",
+    "Professional/CSES300/introductory/Number Spiral.md",
+    "Personal/Health",
+    "Personal/images/Pasted image 20241205173513.png",
+    "Personal/images/Pasted image 20241205155825.png",
+    "Personal/images/Pasted image 20241205154703.png",
+    "Personal/images/Pasted image 20241205154242.png",
+    "Personal/images/Pasted image 20241205121737.png",
+    "Personal/images/Pasted image 20241205121246.png",
+    "Personal/images/Pasted image 20241205121239.png",
+    "Personal/images/Captain America's Chris Evans Sexy & Shirtless! You're Welcome - E! Online.jpeg",
+    "Personal/images/Pasted image 20241205121221.png",
+    "Personal/images",
+    "Personal/Career Tips",
+    "Personal",
+    "Professional/Sys Design/Low Level Design.md"
+  ]
+}
